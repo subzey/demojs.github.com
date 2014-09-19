@@ -75,7 +75,7 @@ Please include in your email:
 
  * Production title
  * Author/group name
- * _(optionnal)_ a message about your production, that will be read to the live audience (of course, you can send us an audio or video recording if you wish!)
+ * _(optional)_ a message about your production, that will be read to the live audience (of course, you can send us an audio or video recording if you wish!)
 
 ### Prizes
 
